@@ -1,0 +1,7 @@
+.bg {
+/*	background-image: asset/page-1-picture.jpg;*/
+	background-position: center;
+	background-size: cover;
+    width: 100%;
+}
+
