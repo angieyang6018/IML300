@@ -18,9 +18,9 @@ h2 {
     font-family: Optima, sans-serif;
 	font-size: 20px;
     font-weight: 100;
-    text-align: left;
-    margin-left: 52px;
-    margin: 32px;
+    text-align: center;
+    margin-top: 52px;
+    margin: 422px;
 }
 
 h6 {
@@ -68,25 +68,19 @@ h5 {
     width: 100%;
 }
 
-.bg-2 {
-/*	background-image: asset/page-2-picture.jpg;*/
-    background-position: center;
-    background-size: cover;
-    width: 100%;
-}
     
 .bg-3 {
-/*	background-image: asset/seasons.jpg;*/
-    background-position: center;
+	background-image: url("asset/seasons.jpg");
     background-size: cover;
-    width: 100%;
+     margin: 0px;
+    background-repeat: no-repeat;   
 }
 
 .bg-4 {
-/*	background-image: asset/spring.jpg;*/
-    background-position: center;
+	background-image: url("asset/spring.jpg");
     background-size: cover;
-    width: 100%;
+    margin: 0px;
+    background-repeat: no-repeat;   
 }
 
 video {
