@@ -1,3 +1,58 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 30px;
+  font-family: times;
+  color: rgb(205,90,72);
+}
+    
+h2 {
+    font-family: times;
+	font-size: 20px;
+    text-align: left;
+    margin-left: 52px;
+    margin: 52px;
+}
+
+h6 {
+    font-family: times;
+	font-size: 22px;
+    text-align: center;
+    margin: 162px;
+}
+
+h4 {
+    font-family: times;
+	font-size: 20px;
+    text-align: right;
+    margin: 33px;
+}
+
+h3 {
+    font-family: times;
+	font-size: 20px;
+    text-align: center;
+    margin: 9px;
+}
+
+h5 {
+    font-family: times;
+	font-size: 20px;
+    text-align: center;
+    margin: 549px;
+}
+.hero {
+    padding: 0px;
+    margin: -19px;
+    font-family: times;
+    color: #000000;
+}
+
 .bg {
 /*	background-image: asset/page-1-picture.jpg;*/
 	background-position: center;
@@ -5,3 +60,32 @@
     width: 100%;
 }
 
+.bg-2 {
+/*	background-image: asset/page-2-picture.jpg;*/
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+
+.bg-3 {
+/*	background-image: asset/seasons.jpg;*/
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+
+.bg-4 {
+/*	background-image: asset/spring.jpg;*/
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
