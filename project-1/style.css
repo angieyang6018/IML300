@@ -5,6 +5,18 @@ body {
 	width: 100%;
 }
 
+a {
+  color: white;
+  background: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background: rgb(205,90,72);
+}
+
+
 h1 {
 	font-size: 32px;
     font-family: times;
@@ -36,7 +48,8 @@ h4 {
 	font-size: 20px;
     font-weight: 100;
     text-align: right;
-    margin: 38px;
+    margin-top: 52px;
+    margin: 148px;
 }
 
 h3 {
