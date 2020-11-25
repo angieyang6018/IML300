@@ -1,5 +1,5 @@
 # Chrome bubbles extension
-![bubbles](https://ibb.co/0nTYZ9w)
+<a href="https://ibb.co/LZrhSD3"><img src="https://i.ibb.co/FDXq6kF/Screen-Shot-2020-11-24-at-10-33-46-PM.png" alt="Screen-Shot-2020-11-24-at-10-33-46-PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>picture uploader</a><br />
 
 A Google Chrome extension that turns webpage into an aquarium with bouncing bubbles!
 
